@@ -1,9 +1,9 @@
 # encoding: utf-8
 # language: ru
+#parent ua:
+@UA1_df
 
 #type:us
-#parent :
-@
 Функция: US4 sdds
 Описание пользовательской истории US4 sdds
 

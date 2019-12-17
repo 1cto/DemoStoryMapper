@@ -1,9 +1,5 @@
 # encoding: utf-8
 # language: ru
-#parent uf:
-@UF3_третий_тестовый_поток_ценности
-#parent ua:
-@UA4_четвертая_активность
 
 #type:us
 Функция: US2 Анализировать прибыль
